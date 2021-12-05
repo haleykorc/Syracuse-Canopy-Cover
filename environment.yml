@@ -1,0 +1,9 @@
+name: myGIS
+channels:
+  - defaults
+  - esri
+dependencies:
+  - Ipython
+  - ipywidgets
+  - arcgis
+prefix: /Users/haleykorczak/miniconda3/envs/myGIS
