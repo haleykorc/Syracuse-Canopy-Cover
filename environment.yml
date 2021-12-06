@@ -4,6 +4,7 @@ channels:
   - esri
   - miniconda
 dependencies:
+  - arcgis=1.6.*
   - six
   - pandas
   - pyshp
@@ -12,5 +13,4 @@ dependencies:
   - widgetsnbextension
   - Ipython
   - ipywidgets
-  - arcgis
 prefix: /Users/haleykorczak/miniconda3/envs/myGIS
