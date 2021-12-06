@@ -3,7 +3,13 @@ channels:
   - defaults
   - esri
 dependencies:
+  - six
+  - pandas
+  - pyshp
+  - numpy
+  - matplotlib
+  - widgetsnbextension
   - Ipython
   - ipywidgets
-  - arcgis=1.6.2
+  - arcgis=1.62
 prefix: /Users/haleykorczak/miniconda3/envs/myGIS
