@@ -5,5 +5,5 @@ channels:
 dependencies:
   - Ipython
   - ipywidgets
-  - arcgis
+  - arcgis=1.6.2
 prefix: /Users/haleykorczak/miniconda3/envs/myGIS
