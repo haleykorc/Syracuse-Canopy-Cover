@@ -4,7 +4,7 @@ channels:
   - esri
   - miniconda
 dependencies:
-  - arcgis=1.6.*
+  - arcgis
   - six
   - pandas
   - pyshp
